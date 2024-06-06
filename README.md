@@ -3,7 +3,7 @@ Connect with English-speaking Algerians online! real-time chat, and a focus on c
 
 # Algerian Chat: Connect with fellow English-speaking Algerians! 🇩🇿
 
-
+(https://github.com/ob-cell/Ahdar/blob/main/src/img/logo.png)
 
 This project is a web-based chat application designed specifically for Algerians who communicate in English. It provides a platform to connect, share ideas, make friends, and stay in touch with your community.
 

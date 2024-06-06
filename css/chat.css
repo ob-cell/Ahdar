@@ -1,0 +1,22 @@
+.chat-box {
+  color: green;
+  border: 3px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 10px;
+}
+
+.header {
+  background-color: green;
+  border-bottom: 1px solid #ccc;
+  border-radius: 1px 1px 0 0;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 3px;
+  text-align: center;
+}
+body {
+   background-color: black;
+  font-family: arial, sans-serif;
+  font-size: 16px;

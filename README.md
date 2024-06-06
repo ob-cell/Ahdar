@@ -1,7 +1,5 @@
-# Ahdar
-Connect with English-speaking Algerians online! real-time chat, and a focus on community
 
-# Algerian Chat: Connect with fellow English-speaking Algerians! 🇩🇿
+# Ahdar: Connect with fellow English-speaking Algerians! 🇩🇿
 
 ![alt text](https://github.com/ob-cell/Ahdar/blob/main/src/img/logo.png)
 

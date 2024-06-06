@@ -14,8 +14,8 @@
 
 **(Instructions will be added here once development or deployment is finalized)**
 
-➡️ **Prerequisites:** Basic understanding of web development technologies (HTML, CSS, JavaScript) might be helpful for contributing, but not essential for using the platform.
-➡️ **Setup:** Specific instructions will depend on your development environment and deployment choices.
+* ➡️ **Prerequisites:** Basic understanding of web development technologies (HTML, CSS, JavaScript) might be helpful for contributing, but not essential for using the platform.
+* ➡️ **Setup:** Specific instructions will depend on your development environment and deployment choices.
 
 **Link not available yet**
 
